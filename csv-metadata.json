@@ -44,7 +44,8 @@
             "datatype": "string"
           }
         ],
-        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:156:0:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
       }
     },
     {
@@ -104,7 +105,8 @@
             "datatype": "string"
           }
         ],
-        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:156:1:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
       }
     },
     {
@@ -180,7 +182,8 @@
             "datatype": "string"
           }
         ],
-        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:156:2:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
       }
     }
   ]
