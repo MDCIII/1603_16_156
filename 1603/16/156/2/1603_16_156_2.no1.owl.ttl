@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Beijing Municipality"@eng-Latn ,
         "北京市"@zho-Zyyy ;
-    wdata:q7200235 "CN011010" ;
+    wdata:Q7200235 "CN011010" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -411,7 +411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tianjin Municipality"@eng-Latn ,
         "天津市"@zho-Zyyy ;
-    wdata:q7200235 "CN012010" ;
+    wdata:Q7200235 "CN012010" ;
 .
 
 <urn:mdciii:1603:16:156:2:13010>
@@ -425,7 +425,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baoding"@eng-Latn ,
         "保定市"@zho-Zyyy ;
-    wdata:q7200235 "CN013010" ;
+    wdata:Q7200235 "CN013010" ;
 .
 
 <urn:mdciii:1603:16:156:2:13020>
@@ -439,7 +439,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cangzhou"@eng-Latn ,
         "沧州市"@zho-Zyyy ;
-    wdata:q7200235 "CN013020" ;
+    wdata:Q7200235 "CN013020" ;
 .
 
 <urn:mdciii:1603:16:156:2:13030>
@@ -453,7 +453,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chengde"@eng-Latn ,
         "承德市"@zho-Zyyy ;
-    wdata:q7200235 "CN013030" ;
+    wdata:Q7200235 "CN013030" ;
 .
 
 <urn:mdciii:1603:16:156:2:13040>
@@ -467,7 +467,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Handan"@eng-Latn ,
         "邯郸市"@zho-Zyyy ;
-    wdata:q7200235 "CN013040" ;
+    wdata:Q7200235 "CN013040" ;
 .
 
 <urn:mdciii:1603:16:156:2:13050>
@@ -481,7 +481,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hengshui"@eng-Latn ,
         "衡水市"@zho-Zyyy ;
-    wdata:q7200235 "CN013050" ;
+    wdata:Q7200235 "CN013050" ;
 .
 
 <urn:mdciii:1603:16:156:2:13060>
@@ -495,7 +495,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Langfang"@eng-Latn ,
         "廊坊市"@zho-Zyyy ;
-    wdata:q7200235 "CN013060" ;
+    wdata:Q7200235 "CN013060" ;
 .
 
 <urn:mdciii:1603:16:156:2:13070>
@@ -509,7 +509,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qinhuangdao"@eng-Latn ,
         "秦皇岛市"@zho-Zyyy ;
-    wdata:q7200235 "CN013070" ;
+    wdata:Q7200235 "CN013070" ;
 .
 
 <urn:mdciii:1603:16:156:2:13080>
@@ -523,7 +523,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shijiazhuang"@eng-Latn ,
         "石家庄市"@zho-Zyyy ;
-    wdata:q7200235 "CN013080" ;
+    wdata:Q7200235 "CN013080" ;
 .
 
 <urn:mdciii:1603:16:156:2:13090>
@@ -537,7 +537,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tangshan"@eng-Latn ,
         "唐山市"@zho-Zyyy ;
-    wdata:q7200235 "CN013090" ;
+    wdata:Q7200235 "CN013090" ;
 .
 
 <urn:mdciii:1603:16:156:2:13100>
@@ -551,7 +551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xingtai"@eng-Latn ,
         "邢台市"@zho-Zyyy ;
-    wdata:q7200235 "CN013100" ;
+    wdata:Q7200235 "CN013100" ;
 .
 
 <urn:mdciii:1603:16:156:2:13110>
@@ -565,7 +565,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhangjiakou"@eng-Latn ,
         "张家口市"@zho-Zyyy ;
-    wdata:q7200235 "CN013110" ;
+    wdata:Q7200235 "CN013110" ;
 .
 
 <urn:mdciii:1603:16:156:2:14010>
@@ -579,7 +579,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changzhi"@eng-Latn ,
         "长治市"@zho-Zyyy ;
-    wdata:q7200235 "CN014010" ;
+    wdata:Q7200235 "CN014010" ;
 .
 
 <urn:mdciii:1603:16:156:2:14020>
@@ -593,7 +593,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Datong"@eng-Latn ,
         "大同市"@zho-Zyyy ;
-    wdata:q7200235 "CN014020" ;
+    wdata:Q7200235 "CN014020" ;
 .
 
 <urn:mdciii:1603:16:156:2:14030>
@@ -607,7 +607,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jincheng"@eng-Latn ,
         "晋城市"@zho-Zyyy ;
-    wdata:q7200235 "CN014030" ;
+    wdata:Q7200235 "CN014030" ;
 .
 
 <urn:mdciii:1603:16:156:2:14040>
@@ -621,7 +621,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jinzhong"@eng-Latn ,
         "晋中市"@zho-Zyyy ;
-    wdata:q7200235 "CN014040" ;
+    wdata:Q7200235 "CN014040" ;
 .
 
 <urn:mdciii:1603:16:156:2:14050>
@@ -635,7 +635,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lüliang"@eng-Latn ,
         "吕梁市"@zho-Zyyy ;
-    wdata:q7200235 "CN014050" ;
+    wdata:Q7200235 "CN014050" ;
 .
 
 <urn:mdciii:1603:16:156:2:14060>
@@ -649,7 +649,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Linfen"@eng-Latn ,
         "临汾市"@zho-Zyyy ;
-    wdata:q7200235 "CN014060" ;
+    wdata:Q7200235 "CN014060" ;
 .
 
 <urn:mdciii:1603:16:156:2:14070>
@@ -663,7 +663,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shuozhou"@eng-Latn ,
         "朔州市"@zho-Zyyy ;
-    wdata:q7200235 "CN014070" ;
+    wdata:Q7200235 "CN014070" ;
 .
 
 <urn:mdciii:1603:16:156:2:14080>
@@ -677,7 +677,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taiyuan"@eng-Latn ,
         "太原市"@zho-Zyyy ;
-    wdata:q7200235 "CN014080" ;
+    wdata:Q7200235 "CN014080" ;
 .
 
 <urn:mdciii:1603:16:156:2:14090>
@@ -691,7 +691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xinzhou"@eng-Latn ,
         "忻州市"@zho-Zyyy ;
-    wdata:q7200235 "CN014090" ;
+    wdata:Q7200235 "CN014090" ;
 .
 
 <urn:mdciii:1603:16:156:2:14100>
@@ -705,7 +705,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yangquan"@eng-Latn ,
         "阳泉市"@zho-Zyyy ;
-    wdata:q7200235 "CN014100" ;
+    wdata:Q7200235 "CN014100" ;
 .
 
 <urn:mdciii:1603:16:156:2:14110>
@@ -719,7 +719,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yuncheng"@eng-Latn ,
         "运城市"@zho-Zyyy ;
-    wdata:q7200235 "CN014110" ;
+    wdata:Q7200235 "CN014110" ;
 .
 
 <urn:mdciii:1603:16:156:2:15010>
@@ -733,7 +733,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Alxa League"@eng-Latn ,
         "阿拉善盟"@zho-Zyyy ;
-    wdata:q7200235 "CN015010" ;
+    wdata:Q7200235 "CN015010" ;
 .
 
 <urn:mdciii:1603:16:156:2:15020>
@@ -747,7 +747,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baotou"@eng-Latn ,
         "包头市"@zho-Zyyy ;
-    wdata:q7200235 "CN015020" ;
+    wdata:Q7200235 "CN015020" ;
 .
 
 <urn:mdciii:1603:16:156:2:15030>
@@ -761,7 +761,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayannur"@eng-Latn ,
         "巴彦淖尔市"@zho-Zyyy ;
-    wdata:q7200235 "CN015030" ;
+    wdata:Q7200235 "CN015030" ;
 .
 
 <urn:mdciii:1603:16:156:2:15040>
@@ -775,7 +775,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chifeng"@eng-Latn ,
         "赤峰市"@zho-Zyyy ;
-    wdata:q7200235 "CN015040" ;
+    wdata:Q7200235 "CN015040" ;
 .
 
 <urn:mdciii:1603:16:156:2:15050>
@@ -789,7 +789,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hinggan League"@eng-Latn ,
         "兴安盟"@zho-Zyyy ;
-    wdata:q7200235 "CN015050" ;
+    wdata:Q7200235 "CN015050" ;
 .
 
 <urn:mdciii:1603:16:156:2:15060>
@@ -803,7 +803,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hohhot"@eng-Latn ,
         "呼和浩特市"@zho-Zyyy ;
-    wdata:q7200235 "CN015060" ;
+    wdata:Q7200235 "CN015060" ;
 .
 
 <urn:mdciii:1603:16:156:2:15070>
@@ -817,7 +817,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hulunbuir"@eng-Latn ,
         "呼伦贝尔市"@zho-Zyyy ;
-    wdata:q7200235 "CN015070" ;
+    wdata:Q7200235 "CN015070" ;
 .
 
 <urn:mdciii:1603:16:156:2:15080>
@@ -831,7 +831,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ordos"@eng-Latn ,
         "鄂尔多斯市"@zho-Zyyy ;
-    wdata:q7200235 "CN015080" ;
+    wdata:Q7200235 "CN015080" ;
 .
 
 <urn:mdciii:1603:16:156:2:15090>
@@ -845,7 +845,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tongliao"@eng-Latn ,
         "通辽市"@zho-Zyyy ;
-    wdata:q7200235 "CN015090" ;
+    wdata:Q7200235 "CN015090" ;
 .
 
 <urn:mdciii:1603:16:156:2:15100>
@@ -859,7 +859,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ulanqab"@eng-Latn ,
         "乌兰察布市"@zho-Zyyy ;
-    wdata:q7200235 "CN015100" ;
+    wdata:Q7200235 "CN015100" ;
 .
 
 <urn:mdciii:1603:16:156:2:15110>
@@ -873,7 +873,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuhai"@eng-Latn ,
         "乌海市"@zho-Zyyy ;
-    wdata:q7200235 "CN015110" ;
+    wdata:Q7200235 "CN015110" ;
 .
 
 <urn:mdciii:1603:16:156:2:15120>
@@ -887,7 +887,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xilingol League"@eng-Latn ,
         "锡林郭勒盟"@zho-Zyyy ;
-    wdata:q7200235 "CN015120" ;
+    wdata:Q7200235 "CN015120" ;
 .
 
 <urn:mdciii:1603:16:156:2:21010>
@@ -901,7 +901,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anshan"@eng-Latn ,
         "鞍山市"@zho-Zyyy ;
-    wdata:q7200235 "CN021010" ;
+    wdata:Q7200235 "CN021010" ;
 .
 
 <urn:mdciii:1603:16:156:2:21020>
@@ -915,7 +915,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Benxi"@eng-Latn ,
         "本溪市"@zho-Zyyy ;
-    wdata:q7200235 "CN021020" ;
+    wdata:Q7200235 "CN021020" ;
 .
 
 <urn:mdciii:1603:16:156:2:21030>
@@ -929,7 +929,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chaoyang"@eng-Latn ,
         "朝阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN021030" ;
+    wdata:Q7200235 "CN021030" ;
 .
 
 <urn:mdciii:1603:16:156:2:21040>
@@ -943,7 +943,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dalian"@eng-Latn ,
         "大连市"@zho-Zyyy ;
-    wdata:q7200235 "CN021040" ;
+    wdata:Q7200235 "CN021040" ;
 .
 
 <urn:mdciii:1603:16:156:2:21050>
@@ -957,7 +957,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dandong"@eng-Latn ,
         "丹东市"@zho-Zyyy ;
-    wdata:q7200235 "CN021050" ;
+    wdata:Q7200235 "CN021050" ;
 .
 
 <urn:mdciii:1603:16:156:2:21060>
@@ -971,7 +971,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fushun"@eng-Latn ,
         "抚顺市"@zho-Zyyy ;
-    wdata:q7200235 "CN021060" ;
+    wdata:Q7200235 "CN021060" ;
 .
 
 <urn:mdciii:1603:16:156:2:21070>
@@ -985,7 +985,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fuxin"@eng-Latn ,
         "阜新市"@zho-Zyyy ;
-    wdata:q7200235 "CN021070" ;
+    wdata:Q7200235 "CN021070" ;
 .
 
 <urn:mdciii:1603:16:156:2:21080>
@@ -999,7 +999,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huludao"@eng-Latn ,
         "葫芦岛市"@zho-Zyyy ;
-    wdata:q7200235 "CN021080" ;
+    wdata:Q7200235 "CN021080" ;
 .
 
 <urn:mdciii:1603:16:156:2:21090>
@@ -1013,7 +1013,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jinzhou"@eng-Latn ,
         "锦州市"@zho-Zyyy ;
-    wdata:q7200235 "CN021090" ;
+    wdata:Q7200235 "CN021090" ;
 .
 
 <urn:mdciii:1603:16:156:2:21100>
@@ -1027,7 +1027,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liaoyang"@eng-Latn ,
         "辽阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN021100" ;
+    wdata:Q7200235 "CN021100" ;
 .
 
 <urn:mdciii:1603:16:156:2:21110>
@@ -1041,7 +1041,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Panjin"@eng-Latn ,
         "盘锦市"@zho-Zyyy ;
-    wdata:q7200235 "CN021110" ;
+    wdata:Q7200235 "CN021110" ;
 .
 
 <urn:mdciii:1603:16:156:2:21120>
@@ -1055,7 +1055,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shenyang"@eng-Latn ,
         "沈阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN021120" ;
+    wdata:Q7200235 "CN021120" ;
 .
 
 <urn:mdciii:1603:16:156:2:21130>
@@ -1069,7 +1069,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tieling"@eng-Latn ,
         "铁岭市"@zho-Zyyy ;
-    wdata:q7200235 "CN021130" ;
+    wdata:Q7200235 "CN021130" ;
 .
 
 <urn:mdciii:1603:16:156:2:21140>
@@ -1083,7 +1083,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yingkou"@eng-Latn ,
         "营口市"@zho-Zyyy ;
-    wdata:q7200235 "CN021140" ;
+    wdata:Q7200235 "CN021140" ;
 .
 
 <urn:mdciii:1603:16:156:2:22010>
@@ -1097,7 +1097,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baicheng"@eng-Latn ,
         "白城市"@zho-Zyyy ;
-    wdata:q7200235 "CN022010" ;
+    wdata:Q7200235 "CN022010" ;
 .
 
 <urn:mdciii:1603:16:156:2:22020>
@@ -1111,7 +1111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baishan"@eng-Latn ,
         "白山市"@zho-Zyyy ;
-    wdata:q7200235 "CN022020" ;
+    wdata:Q7200235 "CN022020" ;
 .
 
 <urn:mdciii:1603:16:156:2:22030>
@@ -1125,7 +1125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changchun"@eng-Latn ,
         "长春市"@zho-Zyyy ;
-    wdata:q7200235 "CN022030" ;
+    wdata:Q7200235 "CN022030" ;
 .
 
 <urn:mdciii:1603:16:156:2:22040>
@@ -1139,7 +1139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jilin"@eng-Latn ,
         "吉林市"@zho-Zyyy ;
-    wdata:q7200235 "CN022040" ;
+    wdata:Q7200235 "CN022040" ;
 .
 
 <urn:mdciii:1603:16:156:2:22050>
@@ -1153,7 +1153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liaoyuan"@eng-Latn ,
         "辽源市"@zho-Zyyy ;
-    wdata:q7200235 "CN022050" ;
+    wdata:Q7200235 "CN022050" ;
 .
 
 <urn:mdciii:1603:16:156:2:22060>
@@ -1167,7 +1167,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Siping"@eng-Latn ,
         "四平市"@zho-Zyyy ;
-    wdata:q7200235 "CN022060" ;
+    wdata:Q7200235 "CN022060" ;
 .
 
 <urn:mdciii:1603:16:156:2:22070>
@@ -1181,7 +1181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Songyuan"@eng-Latn ,
         "松原市"@zho-Zyyy ;
-    wdata:q7200235 "CN022070" ;
+    wdata:Q7200235 "CN022070" ;
 .
 
 <urn:mdciii:1603:16:156:2:22080>
@@ -1195,7 +1195,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tonghua"@eng-Latn ,
         "通化市"@zho-Zyyy ;
-    wdata:q7200235 "CN022080" ;
+    wdata:Q7200235 "CN022080" ;
 .
 
 <urn:mdciii:1603:16:156:2:22090>
@@ -1209,7 +1209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yanbian Korean Autonomous Prefecture"@eng-Latn ,
         "延边朝鲜族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN022090" ;
+    wdata:Q7200235 "CN022090" ;
 .
 
 <urn:mdciii:1603:16:156:2:23010>
@@ -1223,7 +1223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Daqing"@eng-Latn ,
         "大庆市"@zho-Zyyy ;
-    wdata:q7200235 "CN023010" ;
+    wdata:Q7200235 "CN023010" ;
 .
 
 <urn:mdciii:1603:16:156:2:23020>
@@ -1237,7 +1237,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Daxinganling Prefecture"@eng-Latn ,
         "大兴安岭地区[4]"@zho-Zyyy ;
-    wdata:q7200235 "CN023020" ;
+    wdata:Q7200235 "CN023020" ;
 .
 
 <urn:mdciii:1603:16:156:2:23030>
@@ -1251,7 +1251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Harbin"@eng-Latn ,
         "哈尔滨市"@zho-Zyyy ;
-    wdata:q7200235 "CN023030" ;
+    wdata:Q7200235 "CN023030" ;
 .
 
 <urn:mdciii:1603:16:156:2:23040>
@@ -1265,7 +1265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hegang"@eng-Latn ,
         "鹤岗市"@zho-Zyyy ;
-    wdata:q7200235 "CN023040" ;
+    wdata:Q7200235 "CN023040" ;
 .
 
 <urn:mdciii:1603:16:156:2:23050>
@@ -1279,7 +1279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Heihe"@eng-Latn ,
         "黑河市"@zho-Zyyy ;
-    wdata:q7200235 "CN023050" ;
+    wdata:Q7200235 "CN023050" ;
 .
 
 <urn:mdciii:1603:16:156:2:23060>
@@ -1293,7 +1293,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiamusi"@eng-Latn ,
         "佳木斯市"@zho-Zyyy ;
-    wdata:q7200235 "CN023060" ;
+    wdata:Q7200235 "CN023060" ;
 .
 
 <urn:mdciii:1603:16:156:2:23070>
@@ -1307,7 +1307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jixi"@eng-Latn ,
         "鸡西市"@zho-Zyyy ;
-    wdata:q7200235 "CN023070" ;
+    wdata:Q7200235 "CN023070" ;
 .
 
 <urn:mdciii:1603:16:156:2:23080>
@@ -1321,7 +1321,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mudanjiang"@eng-Latn ,
         "牡丹江市"@zho-Zyyy ;
-    wdata:q7200235 "CN023080" ;
+    wdata:Q7200235 "CN023080" ;
 .
 
 <urn:mdciii:1603:16:156:2:23090>
@@ -1335,7 +1335,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qiqihar"@eng-Latn ,
         "齐齐哈尔市"@zho-Zyyy ;
-    wdata:q7200235 "CN023090" ;
+    wdata:Q7200235 "CN023090" ;
 .
 
 <urn:mdciii:1603:16:156:2:23100>
@@ -1349,7 +1349,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qitaihe"@eng-Latn ,
         "七台河市"@zho-Zyyy ;
-    wdata:q7200235 "CN023100" ;
+    wdata:Q7200235 "CN023100" ;
 .
 
 <urn:mdciii:1603:16:156:2:23110>
@@ -1363,7 +1363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shuangyashan"@eng-Latn ,
         "双鸭山市"@zho-Zyyy ;
-    wdata:q7200235 "CN023110" ;
+    wdata:Q7200235 "CN023110" ;
 .
 
 <urn:mdciii:1603:16:156:2:23120>
@@ -1377,7 +1377,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suihua"@eng-Latn ,
         "绥化市"@zho-Zyyy ;
-    wdata:q7200235 "CN023120" ;
+    wdata:Q7200235 "CN023120" ;
 .
 
 <urn:mdciii:1603:16:156:2:23130>
@@ -1391,7 +1391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yichun"@eng-Latn ,
         "伊春市"@zho-Zyyy ;
-    wdata:q7200235 "CN023130" ;
+    wdata:Q7200235 "CN023130" ;
 .
 
 <urn:mdciii:1603:16:156:2:31010>
@@ -1405,7 +1405,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shanghai Municipality"@eng-Latn ,
         "上海市"@zho-Zyyy ;
-    wdata:q7200235 "CN031010" ;
+    wdata:Q7200235 "CN031010" ;
 .
 
 <urn:mdciii:1603:16:156:2:32010>
@@ -1419,7 +1419,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changzhou"@eng-Latn ,
         "常州市"@zho-Zyyy ;
-    wdata:q7200235 "CN032010" ;
+    wdata:Q7200235 "CN032010" ;
 .
 
 <urn:mdciii:1603:16:156:2:32020>
@@ -1433,7 +1433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huai'an"@eng-Latn ,
         "淮安市"@zho-Zyyy ;
-    wdata:q7200235 "CN032020" ;
+    wdata:Q7200235 "CN032020" ;
 .
 
 <urn:mdciii:1603:16:156:2:32030>
@@ -1447,7 +1447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lianyungang"@eng-Latn ,
         "连云港市"@zho-Zyyy ;
-    wdata:q7200235 "CN032030" ;
+    wdata:Q7200235 "CN032030" ;
 .
 
 <urn:mdciii:1603:16:156:2:32040>
@@ -1461,7 +1461,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nanjing"@eng-Latn ,
         "南京市"@zho-Zyyy ;
-    wdata:q7200235 "CN032040" ;
+    wdata:Q7200235 "CN032040" ;
 .
 
 <urn:mdciii:1603:16:156:2:32050>
@@ -1475,7 +1475,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nantong"@eng-Latn ,
         "南通市"@zho-Zyyy ;
-    wdata:q7200235 "CN032050" ;
+    wdata:Q7200235 "CN032050" ;
 .
 
 <urn:mdciii:1603:16:156:2:32060>
@@ -1489,7 +1489,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suqian"@eng-Latn ,
         "宿迁市"@zho-Zyyy ;
-    wdata:q7200235 "CN032060" ;
+    wdata:Q7200235 "CN032060" ;
 .
 
 <urn:mdciii:1603:16:156:2:32070>
@@ -1503,7 +1503,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suzhou"@eng-Latn ,
         "苏州市"@zho-Zyyy ;
-    wdata:q7200235 "CN032070" ;
+    wdata:Q7200235 "CN032070" ;
 .
 
 <urn:mdciii:1603:16:156:2:32080>
@@ -1517,7 +1517,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taizhou"@eng-Latn ,
         "泰州市"@zho-Zyyy ;
-    wdata:q7200235 "CN032080" ;
+    wdata:Q7200235 "CN032080" ;
 .
 
 <urn:mdciii:1603:16:156:2:32090>
@@ -1531,7 +1531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuxi"@eng-Latn ,
         "无锡市"@zho-Zyyy ;
-    wdata:q7200235 "CN032090" ;
+    wdata:Q7200235 "CN032090" ;
 .
 
 <urn:mdciii:1603:16:156:2:32100>
@@ -1545,7 +1545,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuzhou"@eng-Latn ,
         "徐州市"@zho-Zyyy ;
-    wdata:q7200235 "CN032100" ;
+    wdata:Q7200235 "CN032100" ;
 .
 
 <urn:mdciii:1603:16:156:2:32110>
@@ -1559,7 +1559,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yancheng"@eng-Latn ,
         "盐城市"@zho-Zyyy ;
-    wdata:q7200235 "CN032110" ;
+    wdata:Q7200235 "CN032110" ;
 .
 
 <urn:mdciii:1603:16:156:2:32120>
@@ -1573,7 +1573,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yangzhou"@eng-Latn ,
         "扬州市"@zho-Zyyy ;
-    wdata:q7200235 "CN032120" ;
+    wdata:Q7200235 "CN032120" ;
 .
 
 <urn:mdciii:1603:16:156:2:32130>
@@ -1587,7 +1587,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhenjiang"@eng-Latn ,
         "镇江市"@zho-Zyyy ;
-    wdata:q7200235 "CN032130" ;
+    wdata:Q7200235 "CN032130" ;
 .
 
 <urn:mdciii:1603:16:156:2:33010>
@@ -1601,7 +1601,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hangzhou"@eng-Latn ,
         "杭州市"@zho-Zyyy ;
-    wdata:q7200235 "CN033010" ;
+    wdata:Q7200235 "CN033010" ;
 .
 
 <urn:mdciii:1603:16:156:2:33020>
@@ -1615,7 +1615,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huzhou"@eng-Latn ,
         "湖州市"@zho-Zyyy ;
-    wdata:q7200235 "CN033020" ;
+    wdata:Q7200235 "CN033020" ;
 .
 
 <urn:mdciii:1603:16:156:2:33030>
@@ -1629,7 +1629,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiaxing"@eng-Latn ,
         "嘉兴市"@zho-Zyyy ;
-    wdata:q7200235 "CN033030" ;
+    wdata:Q7200235 "CN033030" ;
 .
 
 <urn:mdciii:1603:16:156:2:33040>
@@ -1643,7 +1643,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jinhua"@eng-Latn ,
         "金华市"@zho-Zyyy ;
-    wdata:q7200235 "CN033040" ;
+    wdata:Q7200235 "CN033040" ;
 .
 
 <urn:mdciii:1603:16:156:2:33050>
@@ -1657,7 +1657,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lishui"@eng-Latn ,
         "丽水市"@zho-Zyyy ;
-    wdata:q7200235 "CN033050" ;
+    wdata:Q7200235 "CN033050" ;
 .
 
 <urn:mdciii:1603:16:156:2:33060>
@@ -1671,7 +1671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ningbo"@eng-Latn ,
         "宁波市"@zho-Zyyy ;
-    wdata:q7200235 "CN033060" ;
+    wdata:Q7200235 "CN033060" ;
 .
 
 <urn:mdciii:1603:16:156:2:33070>
@@ -1685,7 +1685,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quzhou"@eng-Latn ,
         "衢州市"@zho-Zyyy ;
-    wdata:q7200235 "CN033070" ;
+    wdata:Q7200235 "CN033070" ;
 .
 
 <urn:mdciii:1603:16:156:2:33080>
@@ -1699,7 +1699,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shaoxing"@eng-Latn ,
         "绍兴市"@zho-Zyyy ;
-    wdata:q7200235 "CN033080" ;
+    wdata:Q7200235 "CN033080" ;
 .
 
 <urn:mdciii:1603:16:156:2:33090>
@@ -1713,7 +1713,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taizhou"@eng-Latn ,
         "台州市"@zho-Zyyy ;
-    wdata:q7200235 "CN033090" ;
+    wdata:Q7200235 "CN033090" ;
 .
 
 <urn:mdciii:1603:16:156:2:33100>
@@ -1727,7 +1727,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wenzhou"@eng-Latn ,
         "温州市"@zho-Zyyy ;
-    wdata:q7200235 "CN033100" ;
+    wdata:Q7200235 "CN033100" ;
 .
 
 <urn:mdciii:1603:16:156:2:33110>
@@ -1741,7 +1741,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhoushan"@eng-Latn ,
         "舟山市"@zho-Zyyy ;
-    wdata:q7200235 "CN033110" ;
+    wdata:Q7200235 "CN033110" ;
 .
 
 <urn:mdciii:1603:16:156:2:34010>
@@ -1755,7 +1755,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anqing"@eng-Latn ,
         "安庆市"@zho-Zyyy ;
-    wdata:q7200235 "CN034010" ;
+    wdata:Q7200235 "CN034010" ;
 .
 
 <urn:mdciii:1603:16:156:2:34020>
@@ -1769,7 +1769,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bengbu"@eng-Latn ,
         "蚌埠市"@zho-Zyyy ;
-    wdata:q7200235 "CN034020" ;
+    wdata:Q7200235 "CN034020" ;
 .
 
 <urn:mdciii:1603:16:156:2:34030>
@@ -1783,7 +1783,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bozhou"@eng-Latn ,
         "亳州市"@zho-Zyyy ;
-    wdata:q7200235 "CN034030" ;
+    wdata:Q7200235 "CN034030" ;
 .
 
 <urn:mdciii:1603:16:156:2:34040>
@@ -1797,7 +1797,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chizhou"@eng-Latn ,
         "池州市"@zho-Zyyy ;
-    wdata:q7200235 "CN034040" ;
+    wdata:Q7200235 "CN034040" ;
 .
 
 <urn:mdciii:1603:16:156:2:34050>
@@ -1811,7 +1811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chuzhou"@eng-Latn ,
         "滁州市"@zho-Zyyy ;
-    wdata:q7200235 "CN034050" ;
+    wdata:Q7200235 "CN034050" ;
 .
 
 <urn:mdciii:1603:16:156:2:34060>
@@ -1825,7 +1825,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fuyang"@eng-Latn ,
         "阜阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN034060" ;
+    wdata:Q7200235 "CN034060" ;
 .
 
 <urn:mdciii:1603:16:156:2:34070>
@@ -1839,7 +1839,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hefei"@eng-Latn ,
         "合肥市"@zho-Zyyy ;
-    wdata:q7200235 "CN034070" ;
+    wdata:Q7200235 "CN034070" ;
 .
 
 <urn:mdciii:1603:16:156:2:34080>
@@ -1853,7 +1853,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huaibei"@eng-Latn ,
         "淮北市"@zho-Zyyy ;
-    wdata:q7200235 "CN034080" ;
+    wdata:Q7200235 "CN034080" ;
 .
 
 <urn:mdciii:1603:16:156:2:34090>
@@ -1867,7 +1867,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huainan"@eng-Latn ,
         "淮南市"@zho-Zyyy ;
-    wdata:q7200235 "CN034090" ;
+    wdata:Q7200235 "CN034090" ;
 .
 
 <urn:mdciii:1603:16:156:2:34100>
@@ -1881,7 +1881,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huangshan"@eng-Latn ,
         "黄山市"@zho-Zyyy ;
-    wdata:q7200235 "CN034100" ;
+    wdata:Q7200235 "CN034100" ;
 .
 
 <urn:mdciii:1603:16:156:2:34110>
@@ -1895,7 +1895,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lu'an"@eng-Latn ,
         "六安市"@zho-Zyyy ;
-    wdata:q7200235 "CN034110" ;
+    wdata:Q7200235 "CN034110" ;
 .
 
 <urn:mdciii:1603:16:156:2:34120>
@@ -1909,7 +1909,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ma'anshan"@eng-Latn ,
         "马鞍山市"@zho-Zyyy ;
-    wdata:q7200235 "CN034120" ;
+    wdata:Q7200235 "CN034120" ;
 .
 
 <urn:mdciii:1603:16:156:2:34130>
@@ -1923,7 +1923,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suzhou"@eng-Latn ,
         "宿州市"@zho-Zyyy ;
-    wdata:q7200235 "CN034130" ;
+    wdata:Q7200235 "CN034130" ;
 .
 
 <urn:mdciii:1603:16:156:2:34140>
@@ -1937,7 +1937,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tongling"@eng-Latn ,
         "铜陵市"@zho-Zyyy ;
-    wdata:q7200235 "CN034140" ;
+    wdata:Q7200235 "CN034140" ;
 .
 
 <urn:mdciii:1603:16:156:2:34150>
@@ -1951,7 +1951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuhu"@eng-Latn ,
         "芜湖市"@zho-Zyyy ;
-    wdata:q7200235 "CN034150" ;
+    wdata:Q7200235 "CN034150" ;
 .
 
 <urn:mdciii:1603:16:156:2:34160>
@@ -1965,7 +1965,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuancheng"@eng-Latn ,
         "宣城市"@zho-Zyyy ;
-    wdata:q7200235 "CN034160" ;
+    wdata:Q7200235 "CN034160" ;
 .
 
 <urn:mdciii:1603:16:156:2:35010>
@@ -1979,7 +1979,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fuzhou"@eng-Latn ,
         "福州市"@zho-Zyyy ;
-    wdata:q7200235 "CN035010" ;
+    wdata:Q7200235 "CN035010" ;
 .
 
 <urn:mdciii:1603:16:156:2:35020>
@@ -1993,7 +1993,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Longyan"@eng-Latn ,
         "龙岩市"@zho-Zyyy ;
-    wdata:q7200235 "CN035020" ;
+    wdata:Q7200235 "CN035020" ;
 .
 
 <urn:mdciii:1603:16:156:2:35030>
@@ -2007,7 +2007,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nanping"@eng-Latn ,
         "南平市"@zho-Zyyy ;
-    wdata:q7200235 "CN035030" ;
+    wdata:Q7200235 "CN035030" ;
 .
 
 <urn:mdciii:1603:16:156:2:35040>
@@ -2021,7 +2021,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ningde"@eng-Latn ,
         "宁德市"@zho-Zyyy ;
-    wdata:q7200235 "CN035040" ;
+    wdata:Q7200235 "CN035040" ;
 .
 
 <urn:mdciii:1603:16:156:2:35050>
@@ -2035,7 +2035,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Putian"@eng-Latn ,
         "莆田市"@zho-Zyyy ;
-    wdata:q7200235 "CN035050" ;
+    wdata:Q7200235 "CN035050" ;
 .
 
 <urn:mdciii:1603:16:156:2:35060>
@@ -2049,7 +2049,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Quanzhou"@eng-Latn ,
         "泉州市"@zho-Zyyy ;
-    wdata:q7200235 "CN035060" ;
+    wdata:Q7200235 "CN035060" ;
 .
 
 <urn:mdciii:1603:16:156:2:35070>
@@ -2063,7 +2063,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanming"@eng-Latn ,
         "三明市"@zho-Zyyy ;
-    wdata:q7200235 "CN035070" ;
+    wdata:Q7200235 "CN035070" ;
 .
 
 <urn:mdciii:1603:16:156:2:35080>
@@ -2077,7 +2077,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiamen"@eng-Latn ,
         "厦门市"@zho-Zyyy ;
-    wdata:q7200235 "CN035080" ;
+    wdata:Q7200235 "CN035080" ;
 .
 
 <urn:mdciii:1603:16:156:2:35090>
@@ -2091,7 +2091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhangzhou"@eng-Latn ,
         "漳州市"@zho-Zyyy ;
-    wdata:q7200235 "CN035090" ;
+    wdata:Q7200235 "CN035090" ;
 .
 
 <urn:mdciii:1603:16:156:2:36010>
@@ -2105,7 +2105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fuzhou"@eng-Latn ,
         "抚州市"@zho-Zyyy ;
-    wdata:q7200235 "CN036010" ;
+    wdata:Q7200235 "CN036010" ;
 .
 
 <urn:mdciii:1603:16:156:2:36020>
@@ -2119,7 +2119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ganzhou"@eng-Latn ,
         "赣州市"@zho-Zyyy ;
-    wdata:q7200235 "CN036020" ;
+    wdata:Q7200235 "CN036020" ;
 .
 
 <urn:mdciii:1603:16:156:2:36030>
@@ -2133,7 +2133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ji'an"@eng-Latn ,
         "吉安市"@zho-Zyyy ;
-    wdata:q7200235 "CN036030" ;
+    wdata:Q7200235 "CN036030" ;
 .
 
 <urn:mdciii:1603:16:156:2:36040>
@@ -2147,7 +2147,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jingdezhen"@eng-Latn ,
         "景德镇市"@zho-Zyyy ;
-    wdata:q7200235 "CN036040" ;
+    wdata:Q7200235 "CN036040" ;
 .
 
 <urn:mdciii:1603:16:156:2:36050>
@@ -2161,7 +2161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiujiang"@eng-Latn ,
         "九江市"@zho-Zyyy ;
-    wdata:q7200235 "CN036050" ;
+    wdata:Q7200235 "CN036050" ;
 .
 
 <urn:mdciii:1603:16:156:2:36060>
@@ -2175,7 +2175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nanchang"@eng-Latn ,
         "南昌市"@zho-Zyyy ;
-    wdata:q7200235 "CN036060" ;
+    wdata:Q7200235 "CN036060" ;
 .
 
 <urn:mdciii:1603:16:156:2:36070>
@@ -2189,7 +2189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pingxiang"@eng-Latn ,
         "萍乡市"@zho-Zyyy ;
-    wdata:q7200235 "CN036070" ;
+    wdata:Q7200235 "CN036070" ;
 .
 
 <urn:mdciii:1603:16:156:2:36080>
@@ -2203,7 +2203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shangrao"@eng-Latn ,
         "上饶市"@zho-Zyyy ;
-    wdata:q7200235 "CN036080" ;
+    wdata:Q7200235 "CN036080" ;
 .
 
 <urn:mdciii:1603:16:156:2:36090>
@@ -2217,7 +2217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xinyu"@eng-Latn ,
         "新余市"@zho-Zyyy ;
-    wdata:q7200235 "CN036090" ;
+    wdata:Q7200235 "CN036090" ;
 .
 
 <urn:mdciii:1603:16:156:2:36100>
@@ -2231,7 +2231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yichun"@eng-Latn ,
         "宜春市"@zho-Zyyy ;
-    wdata:q7200235 "CN036100" ;
+    wdata:Q7200235 "CN036100" ;
 .
 
 <urn:mdciii:1603:16:156:2:36110>
@@ -2245,7 +2245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yingtan"@eng-Latn ,
         "鹰潭市"@zho-Zyyy ;
-    wdata:q7200235 "CN036110" ;
+    wdata:Q7200235 "CN036110" ;
 .
 
 <urn:mdciii:1603:16:156:2:37010>
@@ -2259,7 +2259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Binzhou"@eng-Latn ,
         "滨州市"@zho-Zyyy ;
-    wdata:q7200235 "CN037010" ;
+    wdata:Q7200235 "CN037010" ;
 .
 
 <urn:mdciii:1603:16:156:2:37020>
@@ -2273,7 +2273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dezhou"@eng-Latn ,
         "德州市"@zho-Zyyy ;
-    wdata:q7200235 "CN037020" ;
+    wdata:Q7200235 "CN037020" ;
 .
 
 <urn:mdciii:1603:16:156:2:37030>
@@ -2287,7 +2287,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dongying"@eng-Latn ,
         "东营市"@zho-Zyyy ;
-    wdata:q7200235 "CN037030" ;
+    wdata:Q7200235 "CN037030" ;
 .
 
 <urn:mdciii:1603:16:156:2:37040>
@@ -2301,7 +2301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Heze"@eng-Latn ,
         "菏泽市"@zho-Zyyy ;
-    wdata:q7200235 "CN037040" ;
+    wdata:Q7200235 "CN037040" ;
 .
 
 <urn:mdciii:1603:16:156:2:37050>
@@ -2315,7 +2315,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jinan"@eng-Latn ,
         "济南市"@zho-Zyyy ;
-    wdata:q7200235 "CN037050" ;
+    wdata:Q7200235 "CN037050" ;
 .
 
 <urn:mdciii:1603:16:156:2:37060>
@@ -2329,7 +2329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jining"@eng-Latn ,
         "济宁市"@zho-Zyyy ;
-    wdata:q7200235 "CN037060" ;
+    wdata:Q7200235 "CN037060" ;
 .
 
 <urn:mdciii:1603:16:156:2:37070>
@@ -2343,7 +2343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Laiwu"@eng-Latn ,
         "莱芜市"@zho-Zyyy ;
-    wdata:q7200235 "CN037070" ;
+    wdata:Q7200235 "CN037070" ;
 .
 
 <urn:mdciii:1603:16:156:2:37080>
@@ -2357,7 +2357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liaocheng"@eng-Latn ,
         "聊城市"@zho-Zyyy ;
-    wdata:q7200235 "CN037080" ;
+    wdata:Q7200235 "CN037080" ;
 .
 
 <urn:mdciii:1603:16:156:2:37090>
@@ -2371,7 +2371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Linyi"@eng-Latn ,
         "临沂市"@zho-Zyyy ;
-    wdata:q7200235 "CN037090" ;
+    wdata:Q7200235 "CN037090" ;
 .
 
 <urn:mdciii:1603:16:156:2:37100>
@@ -2385,7 +2385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qingdao"@eng-Latn ,
         "青岛市"@zho-Zyyy ;
-    wdata:q7200235 "CN037100" ;
+    wdata:Q7200235 "CN037100" ;
 .
 
 <urn:mdciii:1603:16:156:2:37110>
@@ -2399,7 +2399,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rizhao"@eng-Latn ,
         "日照市"@zho-Zyyy ;
-    wdata:q7200235 "CN037110" ;
+    wdata:Q7200235 "CN037110" ;
 .
 
 <urn:mdciii:1603:16:156:2:37120>
@@ -2413,7 +2413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tai'an"@eng-Latn ,
         "泰安市"@zho-Zyyy ;
-    wdata:q7200235 "CN037120" ;
+    wdata:Q7200235 "CN037120" ;
 .
 
 <urn:mdciii:1603:16:156:2:37130>
@@ -2427,7 +2427,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Weifang"@eng-Latn ,
         "潍坊市"@zho-Zyyy ;
-    wdata:q7200235 "CN037130" ;
+    wdata:Q7200235 "CN037130" ;
 .
 
 <urn:mdciii:1603:16:156:2:37140>
@@ -2441,7 +2441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Weihai"@eng-Latn ,
         "威海市"@zho-Zyyy ;
-    wdata:q7200235 "CN037140" ;
+    wdata:Q7200235 "CN037140" ;
 .
 
 <urn:mdciii:1603:16:156:2:37150>
@@ -2455,7 +2455,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yantai"@eng-Latn ,
         "烟台市"@zho-Zyyy ;
-    wdata:q7200235 "CN037150" ;
+    wdata:Q7200235 "CN037150" ;
 .
 
 <urn:mdciii:1603:16:156:2:37160>
@@ -2469,7 +2469,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zaozhuang"@eng-Latn ,
         "枣庄市"@zho-Zyyy ;
-    wdata:q7200235 "CN037160" ;
+    wdata:Q7200235 "CN037160" ;
 .
 
 <urn:mdciii:1603:16:156:2:37170>
@@ -2483,7 +2483,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zibo"@eng-Latn ,
         "淄博市"@zho-Zyyy ;
-    wdata:q7200235 "CN037170" ;
+    wdata:Q7200235 "CN037170" ;
 .
 
 <urn:mdciii:1603:16:156:2:41010>
@@ -2497,7 +2497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anyang"@eng-Latn ,
         "安阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN041010" ;
+    wdata:Q7200235 "CN041010" ;
 .
 
 <urn:mdciii:1603:16:156:2:41020>
@@ -2511,7 +2511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hebi"@eng-Latn ,
         "鹤壁市"@zho-Zyyy ;
-    wdata:q7200235 "CN041020" ;
+    wdata:Q7200235 "CN041020" ;
 .
 
 <urn:mdciii:1603:16:156:2:41030>
@@ -2525,7 +2525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiaozuo"@eng-Latn ,
         "焦作市"@zho-Zyyy ;
-    wdata:q7200235 "CN041030" ;
+    wdata:Q7200235 "CN041030" ;
 .
 
 <urn:mdciii:1603:16:156:2:41040>
@@ -2539,7 +2539,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiyuan"@eng-Latn ,
         "济源市〔1〕"@zho-Zyyy ;
-    wdata:q7200235 "CN041040" ;
+    wdata:Q7200235 "CN041040" ;
 .
 
 <urn:mdciii:1603:16:156:2:41050>
@@ -2553,7 +2553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kaifeng"@eng-Latn ,
         "开封市"@zho-Zyyy ;
-    wdata:q7200235 "CN041050" ;
+    wdata:Q7200235 "CN041050" ;
 .
 
 <urn:mdciii:1603:16:156:2:41060>
@@ -2567,7 +2567,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luohe"@eng-Latn ,
         "漯河市"@zho-Zyyy ;
-    wdata:q7200235 "CN041060" ;
+    wdata:Q7200235 "CN041060" ;
 .
 
 <urn:mdciii:1603:16:156:2:41070>
@@ -2581,7 +2581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luoyang"@eng-Latn ,
         "洛阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN041070" ;
+    wdata:Q7200235 "CN041070" ;
 .
 
 <urn:mdciii:1603:16:156:2:41080>
@@ -2595,7 +2595,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nanyang"@eng-Latn ,
         "南阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN041080" ;
+    wdata:Q7200235 "CN041080" ;
 .
 
 <urn:mdciii:1603:16:156:2:41090>
@@ -2609,7 +2609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pingdingshan"@eng-Latn ,
         "平顶山市"@zho-Zyyy ;
-    wdata:q7200235 "CN041090" ;
+    wdata:Q7200235 "CN041090" ;
 .
 
 <urn:mdciii:1603:16:156:2:41100>
@@ -2623,7 +2623,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Puyang"@eng-Latn ,
         "濮阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN041100" ;
+    wdata:Q7200235 "CN041100" ;
 .
 
 <urn:mdciii:1603:16:156:2:41110>
@@ -2637,7 +2637,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanmenxia"@eng-Latn ,
         "三门峡市"@zho-Zyyy ;
-    wdata:q7200235 "CN041110" ;
+    wdata:Q7200235 "CN041110" ;
 .
 
 <urn:mdciii:1603:16:156:2:41120>
@@ -2651,7 +2651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shangqiu"@eng-Latn ,
         "商丘市"@zho-Zyyy ;
-    wdata:q7200235 "CN041120" ;
+    wdata:Q7200235 "CN041120" ;
 .
 
 <urn:mdciii:1603:16:156:2:41130>
@@ -2665,7 +2665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xinxiang"@eng-Latn ,
         "新乡市"@zho-Zyyy ;
-    wdata:q7200235 "CN041130" ;
+    wdata:Q7200235 "CN041130" ;
 .
 
 <urn:mdciii:1603:16:156:2:41140>
@@ -2679,7 +2679,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xinyang"@eng-Latn ,
         "信阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN041140" ;
+    wdata:Q7200235 "CN041140" ;
 .
 
 <urn:mdciii:1603:16:156:2:41150>
@@ -2693,7 +2693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xuchang"@eng-Latn ,
         "许昌市"@zho-Zyyy ;
-    wdata:q7200235 "CN041150" ;
+    wdata:Q7200235 "CN041150" ;
 .
 
 <urn:mdciii:1603:16:156:2:41160>
@@ -2707,7 +2707,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhengzhou"@eng-Latn ,
         "郑州市"@zho-Zyyy ;
-    wdata:q7200235 "CN041160" ;
+    wdata:Q7200235 "CN041160" ;
 .
 
 <urn:mdciii:1603:16:156:2:41170>
@@ -2721,7 +2721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhoukou"@eng-Latn ,
         "周口市"@zho-Zyyy ;
-    wdata:q7200235 "CN041170" ;
+    wdata:Q7200235 "CN041170" ;
 .
 
 <urn:mdciii:1603:16:156:2:41180>
@@ -2735,7 +2735,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhumadian"@eng-Latn ,
         "驻马店市"@zho-Zyyy ;
-    wdata:q7200235 "CN041180" ;
+    wdata:Q7200235 "CN041180" ;
 .
 
 <urn:mdciii:1603:16:156:2:42010>
@@ -2749,7 +2749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Enshi Tujia and Miao Autonomous Prefecture"@eng-Latn ,
         "恩施土家族苗族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN042010" ;
+    wdata:Q7200235 "CN042010" ;
 .
 
 <urn:mdciii:1603:16:156:2:42020>
@@ -2763,7 +2763,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ezhou"@eng-Latn ,
         "鄂州市"@zho-Zyyy ;
-    wdata:q7200235 "CN042020" ;
+    wdata:Q7200235 "CN042020" ;
 .
 
 <urn:mdciii:1603:16:156:2:42030>
@@ -2777,7 +2777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huanggang"@eng-Latn ,
         "黄冈市"@zho-Zyyy ;
-    wdata:q7200235 "CN042030" ;
+    wdata:Q7200235 "CN042030" ;
 .
 
 <urn:mdciii:1603:16:156:2:42040>
@@ -2791,7 +2791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huangshi"@eng-Latn ,
         "黄石市"@zho-Zyyy ;
-    wdata:q7200235 "CN042040" ;
+    wdata:Q7200235 "CN042040" ;
 .
 
 <urn:mdciii:1603:16:156:2:42050>
@@ -2805,7 +2805,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jingmen"@eng-Latn ,
         "荆门市"@zho-Zyyy ;
-    wdata:q7200235 "CN042050" ;
+    wdata:Q7200235 "CN042050" ;
 .
 
 <urn:mdciii:1603:16:156:2:42060>
@@ -2819,7 +2819,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jingzhou"@eng-Latn ,
         "荆州市"@zho-Zyyy ;
-    wdata:q7200235 "CN042060" ;
+    wdata:Q7200235 "CN042060" ;
 .
 
 <urn:mdciii:1603:16:156:2:42070>
@@ -2833,7 +2833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qianjiang"@eng-Latn ,
         "潜江市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN042070" ;
+    wdata:Q7200235 "CN042070" ;
 .
 
 <urn:mdciii:1603:16:156:2:42080>
@@ -2847,7 +2847,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shennongjia Forestry District"@eng-Latn ,
         "神农架林区[3]"@zho-Zyyy ;
-    wdata:q7200235 "CN042080" ;
+    wdata:Q7200235 "CN042080" ;
 .
 
 <urn:mdciii:1603:16:156:2:42090>
@@ -2861,7 +2861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shiyan"@eng-Latn ,
         "十堰市"@zho-Zyyy ;
-    wdata:q7200235 "CN042090" ;
+    wdata:Q7200235 "CN042090" ;
 .
 
 <urn:mdciii:1603:16:156:2:42100>
@@ -2875,7 +2875,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suizhou"@eng-Latn ,
         "随州市"@zho-Zyyy ;
-    wdata:q7200235 "CN042100" ;
+    wdata:Q7200235 "CN042100" ;
 .
 
 <urn:mdciii:1603:16:156:2:42110>
@@ -2889,7 +2889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tianmen"@eng-Latn ,
         "天门市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN042110" ;
+    wdata:Q7200235 "CN042110" ;
 .
 
 <urn:mdciii:1603:16:156:2:42120>
@@ -2903,7 +2903,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuhan"@eng-Latn ,
         "武汉市"@zho-Zyyy ;
-    wdata:q7200235 "CN042120" ;
+    wdata:Q7200235 "CN042120" ;
 .
 
 <urn:mdciii:1603:16:156:2:42130>
@@ -2917,7 +2917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiangyang"@eng-Latn ,
         "襄阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN042130" ;
+    wdata:Q7200235 "CN042130" ;
 .
 
 <urn:mdciii:1603:16:156:2:42140>
@@ -2931,7 +2931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xianning"@eng-Latn ,
         "咸宁市"@zho-Zyyy ;
-    wdata:q7200235 "CN042140" ;
+    wdata:Q7200235 "CN042140" ;
 .
 
 <urn:mdciii:1603:16:156:2:42150>
@@ -2945,7 +2945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiantao"@eng-Latn ,
         "仙桃市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN042150" ;
+    wdata:Q7200235 "CN042150" ;
 .
 
 <urn:mdciii:1603:16:156:2:42160>
@@ -2959,7 +2959,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiaogan"@eng-Latn ,
         "孝感市"@zho-Zyyy ;
-    wdata:q7200235 "CN042160" ;
+    wdata:Q7200235 "CN042160" ;
 .
 
 <urn:mdciii:1603:16:156:2:42170>
@@ -2973,7 +2973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yichang"@eng-Latn ,
         "宜昌市"@zho-Zyyy ;
-    wdata:q7200235 "CN042170" ;
+    wdata:Q7200235 "CN042170" ;
 .
 
 <urn:mdciii:1603:16:156:2:43010>
@@ -2987,7 +2987,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changde"@eng-Latn ,
         "常德市"@zho-Zyyy ;
-    wdata:q7200235 "CN043010" ;
+    wdata:Q7200235 "CN043010" ;
 .
 
 <urn:mdciii:1603:16:156:2:43020>
@@ -3001,7 +3001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changsha"@eng-Latn ,
         "长沙市"@zho-Zyyy ;
-    wdata:q7200235 "CN043020" ;
+    wdata:Q7200235 "CN043020" ;
 .
 
 <urn:mdciii:1603:16:156:2:43030>
@@ -3015,7 +3015,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chenzhou"@eng-Latn ,
         "郴州市"@zho-Zyyy ;
-    wdata:q7200235 "CN043030" ;
+    wdata:Q7200235 "CN043030" ;
 .
 
 <urn:mdciii:1603:16:156:2:43040>
@@ -3029,7 +3029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hengyang"@eng-Latn ,
         "衡阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN043040" ;
+    wdata:Q7200235 "CN043040" ;
 .
 
 <urn:mdciii:1603:16:156:2:43050>
@@ -3043,7 +3043,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huaihua"@eng-Latn ,
         "怀化市"@zho-Zyyy ;
-    wdata:q7200235 "CN043050" ;
+    wdata:Q7200235 "CN043050" ;
 .
 
 <urn:mdciii:1603:16:156:2:43060>
@@ -3057,7 +3057,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Loudi"@eng-Latn ,
         "娄底市"@zho-Zyyy ;
-    wdata:q7200235 "CN043060" ;
+    wdata:Q7200235 "CN043060" ;
 .
 
 <urn:mdciii:1603:16:156:2:43070>
@@ -3071,7 +3071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shaoyang"@eng-Latn ,
         "邵阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN043070" ;
+    wdata:Q7200235 "CN043070" ;
 .
 
 <urn:mdciii:1603:16:156:2:43080>
@@ -3085,7 +3085,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiangtan"@eng-Latn ,
         "湘潭市"@zho-Zyyy ;
-    wdata:q7200235 "CN043080" ;
+    wdata:Q7200235 "CN043080" ;
 .
 
 <urn:mdciii:1603:16:156:2:43090>
@@ -3099,7 +3099,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xiangxi Tujia and Miao Autonomous Prefecture"@eng-Latn ,
         "湘西土家族苗族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN043090" ;
+    wdata:Q7200235 "CN043090" ;
 .
 
 <urn:mdciii:1603:16:156:2:43100>
@@ -3113,7 +3113,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yiyang"@eng-Latn ,
         "益阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN043100" ;
+    wdata:Q7200235 "CN043100" ;
 .
 
 <urn:mdciii:1603:16:156:2:43110>
@@ -3127,7 +3127,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yongzhou"@eng-Latn ,
         "永州市"@zho-Zyyy ;
-    wdata:q7200235 "CN043110" ;
+    wdata:Q7200235 "CN043110" ;
 .
 
 <urn:mdciii:1603:16:156:2:43120>
@@ -3141,7 +3141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yueyang"@eng-Latn ,
         "岳阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN043120" ;
+    wdata:Q7200235 "CN043120" ;
 .
 
 <urn:mdciii:1603:16:156:2:43130>
@@ -3155,7 +3155,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhangjiajie"@eng-Latn ,
         "张家界市"@zho-Zyyy ;
-    wdata:q7200235 "CN043130" ;
+    wdata:Q7200235 "CN043130" ;
 .
 
 <urn:mdciii:1603:16:156:2:43140>
@@ -3169,7 +3169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhuzhou"@eng-Latn ,
         "株州市"@zho-Zyyy ;
-    wdata:q7200235 "CN043140" ;
+    wdata:Q7200235 "CN043140" ;
 .
 
 <urn:mdciii:1603:16:156:2:44010>
@@ -3183,7 +3183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chaozhou"@eng-Latn ,
         "潮州市"@zho-Zyyy ;
-    wdata:q7200235 "CN044010" ;
+    wdata:Q7200235 "CN044010" ;
 .
 
 <urn:mdciii:1603:16:156:2:44020>
@@ -3197,7 +3197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dongguan"@eng-Latn ,
         "东莞市"@zho-Zyyy ;
-    wdata:q7200235 "CN044020" ;
+    wdata:Q7200235 "CN044020" ;
 .
 
 <urn:mdciii:1603:16:156:2:44030>
@@ -3211,7 +3211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Foshan"@eng-Latn ,
         "佛山市"@zho-Zyyy ;
-    wdata:q7200235 "CN044030" ;
+    wdata:Q7200235 "CN044030" ;
 .
 
 <urn:mdciii:1603:16:156:2:44040>
@@ -3225,7 +3225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guangzhou"@eng-Latn ,
         "广州市"@zho-Zyyy ;
-    wdata:q7200235 "CN044040" ;
+    wdata:Q7200235 "CN044040" ;
 .
 
 <urn:mdciii:1603:16:156:2:44050>
@@ -3239,7 +3239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Heyuan"@eng-Latn ,
         "河源市"@zho-Zyyy ;
-    wdata:q7200235 "CN044050" ;
+    wdata:Q7200235 "CN044050" ;
 .
 
 <urn:mdciii:1603:16:156:2:44060>
@@ -3253,7 +3253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huizhou"@eng-Latn ,
         "惠州市"@zho-Zyyy ;
-    wdata:q7200235 "CN044060" ;
+    wdata:Q7200235 "CN044060" ;
 .
 
 <urn:mdciii:1603:16:156:2:44070>
@@ -3267,7 +3267,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiangmen"@eng-Latn ,
         "江门市"@zho-Zyyy ;
-    wdata:q7200235 "CN044070" ;
+    wdata:Q7200235 "CN044070" ;
 .
 
 <urn:mdciii:1603:16:156:2:44080>
@@ -3281,7 +3281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jieyang"@eng-Latn ,
         "揭阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN044080" ;
+    wdata:Q7200235 "CN044080" ;
 .
 
 <urn:mdciii:1603:16:156:2:44090>
@@ -3295,7 +3295,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Maoming"@eng-Latn ,
         "茂名市"@zho-Zyyy ;
-    wdata:q7200235 "CN044090" ;
+    wdata:Q7200235 "CN044090" ;
 .
 
 <urn:mdciii:1603:16:156:2:44100>
@@ -3309,7 +3309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Meizhou"@eng-Latn ,
         "梅州市"@zho-Zyyy ;
-    wdata:q7200235 "CN044100" ;
+    wdata:Q7200235 "CN044100" ;
 .
 
 <urn:mdciii:1603:16:156:2:44110>
@@ -3323,7 +3323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qingyuan"@eng-Latn ,
         "清远市"@zho-Zyyy ;
-    wdata:q7200235 "CN044110" ;
+    wdata:Q7200235 "CN044110" ;
 .
 
 <urn:mdciii:1603:16:156:2:44120>
@@ -3337,7 +3337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shantou"@eng-Latn ,
         "汕头市"@zho-Zyyy ;
-    wdata:q7200235 "CN044120" ;
+    wdata:Q7200235 "CN044120" ;
 .
 
 <urn:mdciii:1603:16:156:2:44130>
@@ -3351,7 +3351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shanwei"@eng-Latn ,
         "汕尾市"@zho-Zyyy ;
-    wdata:q7200235 "CN044130" ;
+    wdata:Q7200235 "CN044130" ;
 .
 
 <urn:mdciii:1603:16:156:2:44140>
@@ -3365,7 +3365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shaoguan"@eng-Latn ,
         "韶关市"@zho-Zyyy ;
-    wdata:q7200235 "CN044140" ;
+    wdata:Q7200235 "CN044140" ;
 .
 
 <urn:mdciii:1603:16:156:2:44150>
@@ -3379,7 +3379,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shenzhen"@eng-Latn ,
         "深圳市"@zho-Zyyy ;
-    wdata:q7200235 "CN044150" ;
+    wdata:Q7200235 "CN044150" ;
 .
 
 <urn:mdciii:1603:16:156:2:44160>
@@ -3393,7 +3393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yangjiang"@eng-Latn ,
         "阳江市"@zho-Zyyy ;
-    wdata:q7200235 "CN044160" ;
+    wdata:Q7200235 "CN044160" ;
 .
 
 <urn:mdciii:1603:16:156:2:44170>
@@ -3407,7 +3407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yunfu"@eng-Latn ,
         "云浮市"@zho-Zyyy ;
-    wdata:q7200235 "CN044170" ;
+    wdata:Q7200235 "CN044170" ;
 .
 
 <urn:mdciii:1603:16:156:2:44180>
@@ -3421,7 +3421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhanjiang"@eng-Latn ,
         "湛江市"@zho-Zyyy ;
-    wdata:q7200235 "CN044180" ;
+    wdata:Q7200235 "CN044180" ;
 .
 
 <urn:mdciii:1603:16:156:2:44190>
@@ -3435,7 +3435,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhaoqing"@eng-Latn ,
         "肇庆市"@zho-Zyyy ;
-    wdata:q7200235 "CN044190" ;
+    wdata:Q7200235 "CN044190" ;
 .
 
 <urn:mdciii:1603:16:156:2:44200>
@@ -3449,7 +3449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhongshan"@eng-Latn ,
         "中山市"@zho-Zyyy ;
-    wdata:q7200235 "CN044200" ;
+    wdata:Q7200235 "CN044200" ;
 .
 
 <urn:mdciii:1603:16:156:2:44210>
@@ -3463,7 +3463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhuhai"@eng-Latn ,
         "珠海市"@zho-Zyyy ;
-    wdata:q7200235 "CN044210" ;
+    wdata:Q7200235 "CN044210" ;
 .
 
 <urn:mdciii:1603:16:156:2:45010>
@@ -3477,7 +3477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baise"@eng-Latn ,
         "百色市"@zho-Zyyy ;
-    wdata:q7200235 "CN045010" ;
+    wdata:Q7200235 "CN045010" ;
 .
 
 <urn:mdciii:1603:16:156:2:45020>
@@ -3491,7 +3491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Beihai"@eng-Latn ,
         "北海市"@zho-Zyyy ;
-    wdata:q7200235 "CN045020" ;
+    wdata:Q7200235 "CN045020" ;
 .
 
 <urn:mdciii:1603:16:156:2:45030>
@@ -3505,7 +3505,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chongzuo"@eng-Latn ,
         "崇左市"@zho-Zyyy ;
-    wdata:q7200235 "CN045030" ;
+    wdata:Q7200235 "CN045030" ;
 .
 
 <urn:mdciii:1603:16:156:2:45040>
@@ -3519,7 +3519,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Fangchenggang"@eng-Latn ,
         "防城港市"@zho-Zyyy ;
-    wdata:q7200235 "CN045040" ;
+    wdata:Q7200235 "CN045040" ;
 .
 
 <urn:mdciii:1603:16:156:2:45050>
@@ -3533,7 +3533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guigang"@eng-Latn ,
         "贵港市"@zho-Zyyy ;
-    wdata:q7200235 "CN045050" ;
+    wdata:Q7200235 "CN045050" ;
 .
 
 <urn:mdciii:1603:16:156:2:45060>
@@ -3547,7 +3547,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guilin"@eng-Latn ,
         "桂林市"@zho-Zyyy ;
-    wdata:q7200235 "CN045060" ;
+    wdata:Q7200235 "CN045060" ;
 .
 
 <urn:mdciii:1603:16:156:2:45070>
@@ -3561,7 +3561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hechi"@eng-Latn ,
         "河池市"@zho-Zyyy ;
-    wdata:q7200235 "CN045070" ;
+    wdata:Q7200235 "CN045070" ;
 .
 
 <urn:mdciii:1603:16:156:2:45080>
@@ -3575,7 +3575,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hezhou"@eng-Latn ,
         "贺州市"@zho-Zyyy ;
-    wdata:q7200235 "CN045080" ;
+    wdata:Q7200235 "CN045080" ;
 .
 
 <urn:mdciii:1603:16:156:2:45090>
@@ -3589,7 +3589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Laibin"@eng-Latn ,
         "来宾市"@zho-Zyyy ;
-    wdata:q7200235 "CN045090" ;
+    wdata:Q7200235 "CN045090" ;
 .
 
 <urn:mdciii:1603:16:156:2:45100>
@@ -3603,7 +3603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liuzhou"@eng-Latn ,
         "柳州市"@zho-Zyyy ;
-    wdata:q7200235 "CN045100" ;
+    wdata:Q7200235 "CN045100" ;
 .
 
 <urn:mdciii:1603:16:156:2:45110>
@@ -3617,7 +3617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "NanNing"@eng-Latn ,
         "南宁市"@zho-Zyyy ;
-    wdata:q7200235 "CN045110" ;
+    wdata:Q7200235 "CN045110" ;
 .
 
 <urn:mdciii:1603:16:156:2:45120>
@@ -3631,7 +3631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qinzhou"@eng-Latn ,
         "钦州市"@zho-Zyyy ;
-    wdata:q7200235 "CN045120" ;
+    wdata:Q7200235 "CN045120" ;
 .
 
 <urn:mdciii:1603:16:156:2:45130>
@@ -3645,7 +3645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuzhou"@eng-Latn ,
         "梧州市"@zho-Zyyy ;
-    wdata:q7200235 "CN045130" ;
+    wdata:Q7200235 "CN045130" ;
 .
 
 <urn:mdciii:1603:16:156:2:45140>
@@ -3659,7 +3659,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yulin"@eng-Latn ,
         "玉林市"@zho-Zyyy ;
-    wdata:q7200235 "CN045140" ;
+    wdata:Q7200235 "CN045140" ;
 .
 
 <urn:mdciii:1603:16:156:2:46010>
@@ -3673,7 +3673,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baisha Li Autonomous County"@eng-Latn ,
         "白沙黎族自治县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046010" ;
+    wdata:Q7200235 "CN046010" ;
 .
 
 <urn:mdciii:1603:16:156:2:46020>
@@ -3687,7 +3687,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baoting Li and Miao Autonomous County"@eng-Latn ,
         "保亭黎族苗族自治县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046020" ;
+    wdata:Q7200235 "CN046020" ;
 .
 
 <urn:mdciii:1603:16:156:2:46030>
@@ -3701,7 +3701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changjiang Li Autonomous County"@eng-Latn ,
         "昌江黎族自治县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046030" ;
+    wdata:Q7200235 "CN046030" ;
 .
 
 <urn:mdciii:1603:16:156:2:46040>
@@ -3715,7 +3715,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chengmai County"@eng-Latn ,
         "澄迈县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046040" ;
+    wdata:Q7200235 "CN046040" ;
 .
 
 <urn:mdciii:1603:16:156:2:46050>
@@ -3729,7 +3729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Danzhou"@eng-Latn ,
         "儋州市"@zho-Zyyy ;
-    wdata:q7200235 "CN046050" ;
+    wdata:Q7200235 "CN046050" ;
 .
 
 <urn:mdciii:1603:16:156:2:46060>
@@ -3743,7 +3743,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ding'an County"@eng-Latn ,
         "定安县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046060" ;
+    wdata:Q7200235 "CN046060" ;
 .
 
 <urn:mdciii:1603:16:156:2:46070>
@@ -3757,7 +3757,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dongfang City"@eng-Latn ,
         "东方市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN046070" ;
+    wdata:Q7200235 "CN046070" ;
 .
 
 <urn:mdciii:1603:16:156:2:46080>
@@ -3771,7 +3771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Haikou"@eng-Latn ,
         "海口市"@zho-Zyyy ;
-    wdata:q7200235 "CN046080" ;
+    wdata:Q7200235 "CN046080" ;
 .
 
 <urn:mdciii:1603:16:156:2:46090>
@@ -3785,7 +3785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ledong Li Autonomous County"@eng-Latn ,
         "乐东黎族自治县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046090" ;
+    wdata:Q7200235 "CN046090" ;
 .
 
 <urn:mdciii:1603:16:156:2:46100>
@@ -3799,7 +3799,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lingao County"@eng-Latn ,
         "临高县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046100" ;
+    wdata:Q7200235 "CN046100" ;
 .
 
 <urn:mdciii:1603:16:156:2:46110>
@@ -3813,7 +3813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lingshui Li Autonomous County"@eng-Latn ,
         "陵水黎族自治县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046110" ;
+    wdata:Q7200235 "CN046110" ;
 .
 
 <urn:mdciii:1603:16:156:2:46120>
@@ -3827,7 +3827,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qionghai City"@eng-Latn ,
         "琼海市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN046120" ;
+    wdata:Q7200235 "CN046120" ;
 .
 
 <urn:mdciii:1603:16:156:2:46130>
@@ -3841,7 +3841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qiongzhong Li and Miao Autonomous County"@eng-Latn ,
         "琼中黎族苗族自治县[2]"@zho-Zyyy ;
-    wdata:q7200235 "CN046130" ;
+    wdata:Q7200235 "CN046130" ;
 .
 
 <urn:mdciii:1603:16:156:2:46140>
@@ -3855,7 +3855,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sansha"@eng-Latn ,
         "三沙市"@zho-Zyyy ;
-    wdata:q7200235 "CN046140" ;
+    wdata:Q7200235 "CN046140" ;
 .
 
 <urn:mdciii:1603:16:156:2:46150>
@@ -3869,7 +3869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Sanya"@eng-Latn ,
         "三亚市"@zho-Zyyy ;
-    wdata:q7200235 "CN046150" ;
+    wdata:Q7200235 "CN046150" ;
 .
 
 <urn:mdciii:1603:16:156:2:46160>
@@ -3883,7 +3883,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tunchang County"@eng-Latn ,
         "屯昌县[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN046160" ;
+    wdata:Q7200235 "CN046160" ;
 .
 
 <urn:mdciii:1603:16:156:2:46170>
@@ -3897,7 +3897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wanning City"@eng-Latn ,
         "万宁市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN046170" ;
+    wdata:Q7200235 "CN046170" ;
 .
 
 <urn:mdciii:1603:16:156:2:46180>
@@ -3911,7 +3911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuzhishan City"@eng-Latn ,
         "五指山市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN046180" ;
+    wdata:Q7200235 "CN046180" ;
 .
 
 <urn:mdciii:1603:16:156:2:50010>
@@ -3925,7 +3925,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chongqing Municipality"@eng-Latn ,
         "重庆市"@zho-Zyyy ;
-    wdata:q7200235 "CN050010" ;
+    wdata:Q7200235 "CN050010" ;
 .
 
 <urn:mdciii:1603:16:156:2:51010>
@@ -3939,7 +3939,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bazhong"@eng-Latn ,
         "巴中市"@zho-Zyyy ;
-    wdata:q7200235 "CN051010" ;
+    wdata:Q7200235 "CN051010" ;
 .
 
 <urn:mdciii:1603:16:156:2:51020>
@@ -3953,7 +3953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chengdu"@eng-Latn ,
         "成都市"@zho-Zyyy ;
-    wdata:q7200235 "CN051020" ;
+    wdata:Q7200235 "CN051020" ;
 .
 
 <urn:mdciii:1603:16:156:2:51030>
@@ -3967,7 +3967,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dazhou"@eng-Latn ,
         "达州市"@zho-Zyyy ;
-    wdata:q7200235 "CN051030" ;
+    wdata:Q7200235 "CN051030" ;
 .
 
 <urn:mdciii:1603:16:156:2:51040>
@@ -3981,7 +3981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Deyang"@eng-Latn ,
         "德阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN051040" ;
+    wdata:Q7200235 "CN051040" ;
 .
 
 <urn:mdciii:1603:16:156:2:51050>
@@ -3995,7 +3995,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Garzê Tibetan Autonomous Prefecture"@eng-Latn ,
         "甘孜藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN051050" ;
+    wdata:Q7200235 "CN051050" ;
 .
 
 <urn:mdciii:1603:16:156:2:51060>
@@ -4009,7 +4009,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guang'an"@eng-Latn ,
         "广安市"@zho-Zyyy ;
-    wdata:q7200235 "CN051060" ;
+    wdata:Q7200235 "CN051060" ;
 .
 
 <urn:mdciii:1603:16:156:2:51070>
@@ -4023,7 +4023,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guangyuan"@eng-Latn ,
         "广元市"@zho-Zyyy ;
-    wdata:q7200235 "CN051070" ;
+    wdata:Q7200235 "CN051070" ;
 .
 
 <urn:mdciii:1603:16:156:2:51080>
@@ -4037,7 +4037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Leshan"@eng-Latn ,
         "乐山市"@zho-Zyyy ;
-    wdata:q7200235 "CN051080" ;
+    wdata:Q7200235 "CN051080" ;
 .
 
 <urn:mdciii:1603:16:156:2:51090>
@@ -4051,7 +4051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liangshan Yi Autonomous Prefecture"@eng-Latn ,
         "凉山彝族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN051090" ;
+    wdata:Q7200235 "CN051090" ;
 .
 
 <urn:mdciii:1603:16:156:2:51100>
@@ -4065,7 +4065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luzhou"@eng-Latn ,
         "泸州市"@zho-Zyyy ;
-    wdata:q7200235 "CN051100" ;
+    wdata:Q7200235 "CN051100" ;
 .
 
 <urn:mdciii:1603:16:156:2:51110>
@@ -4079,7 +4079,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Meishan"@eng-Latn ,
         "眉山市"@zho-Zyyy ;
-    wdata:q7200235 "CN051110" ;
+    wdata:Q7200235 "CN051110" ;
 .
 
 <urn:mdciii:1603:16:156:2:51120>
@@ -4093,7 +4093,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mianyang"@eng-Latn ,
         "绵阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN051120" ;
+    wdata:Q7200235 "CN051120" ;
 .
 
 <urn:mdciii:1603:16:156:2:51130>
@@ -4107,7 +4107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nanchong"@eng-Latn ,
         "南充市"@zho-Zyyy ;
-    wdata:q7200235 "CN051130" ;
+    wdata:Q7200235 "CN051130" ;
 .
 
 <urn:mdciii:1603:16:156:2:51140>
@@ -4121,7 +4121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Neijiang"@eng-Latn ,
         "内江市"@zho-Zyyy ;
-    wdata:q7200235 "CN051140" ;
+    wdata:Q7200235 "CN051140" ;
 .
 
 <urn:mdciii:1603:16:156:2:51150>
@@ -4135,7 +4135,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngawa Tibetan and Qiang Autonomous Prefecture"@eng-Latn ,
         "阿坝藏族羌族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN051150" ;
+    wdata:Q7200235 "CN051150" ;
 .
 
 <urn:mdciii:1603:16:156:2:51160>
@@ -4149,7 +4149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Panzhihua"@eng-Latn ,
         "攀枝花市"@zho-Zyyy ;
-    wdata:q7200235 "CN051160" ;
+    wdata:Q7200235 "CN051160" ;
 .
 
 <urn:mdciii:1603:16:156:2:51170>
@@ -4163,7 +4163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Suining"@eng-Latn ,
         "遂宁市"@zho-Zyyy ;
-    wdata:q7200235 "CN051170" ;
+    wdata:Q7200235 "CN051170" ;
 .
 
 <urn:mdciii:1603:16:156:2:51180>
@@ -4177,7 +4177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ya'an"@eng-Latn ,
         "雅安市"@zho-Zyyy ;
-    wdata:q7200235 "CN051180" ;
+    wdata:Q7200235 "CN051180" ;
 .
 
 <urn:mdciii:1603:16:156:2:51190>
@@ -4191,7 +4191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yibin"@eng-Latn ,
         "宜宾市"@zho-Zyyy ;
-    wdata:q7200235 "CN051190" ;
+    wdata:Q7200235 "CN051190" ;
 .
 
 <urn:mdciii:1603:16:156:2:51200>
@@ -4205,7 +4205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zigong"@eng-Latn ,
         "自贡市"@zho-Zyyy ;
-    wdata:q7200235 "CN051200" ;
+    wdata:Q7200235 "CN051200" ;
 .
 
 <urn:mdciii:1603:16:156:2:51210>
@@ -4219,7 +4219,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ziyang"@eng-Latn ,
         "资阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN051210" ;
+    wdata:Q7200235 "CN051210" ;
 .
 
 <urn:mdciii:1603:16:156:2:52010>
@@ -4233,7 +4233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Anshun"@eng-Latn ,
         "安顺市"@zho-Zyyy ;
-    wdata:q7200235 "CN052010" ;
+    wdata:Q7200235 "CN052010" ;
 .
 
 <urn:mdciii:1603:16:156:2:52020>
@@ -4247,7 +4247,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bijie"@eng-Latn ,
         "毕节市"@zho-Zyyy ;
-    wdata:q7200235 "CN052020" ;
+    wdata:Q7200235 "CN052020" ;
 .
 
 <urn:mdciii:1603:16:156:2:52030>
@@ -4261,7 +4261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guiyang"@eng-Latn ,
         "贵阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN052030" ;
+    wdata:Q7200235 "CN052030" ;
 .
 
 <urn:mdciii:1603:16:156:2:52040>
@@ -4275,7 +4275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liupanshui"@eng-Latn ,
         "六盘水市"@zho-Zyyy ;
-    wdata:q7200235 "CN052040" ;
+    wdata:Q7200235 "CN052040" ;
 .
 
 <urn:mdciii:1603:16:156:2:52050>
@@ -4289,7 +4289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qiandongnan Miao and Dong Autonomous Prefecture"@eng-Latn ,
         "黔东南苗族侗族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN052050" ;
+    wdata:Q7200235 "CN052050" ;
 .
 
 <urn:mdciii:1603:16:156:2:52060>
@@ -4303,7 +4303,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qiannan Buyi and Miao Autonomous Prefecture"@eng-Latn ,
         "黔南布依族苗族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN052060" ;
+    wdata:Q7200235 "CN052060" ;
 .
 
 <urn:mdciii:1603:16:156:2:52070>
@@ -4317,7 +4317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qianxinan Buyi and Miao Autonomous Prefecture"@eng-Latn ,
         "黔西南布依族苗族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN052070" ;
+    wdata:Q7200235 "CN052070" ;
 .
 
 <urn:mdciii:1603:16:156:2:52080>
@@ -4331,7 +4331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tongren"@eng-Latn ,
         "铜仁市"@zho-Zyyy ;
-    wdata:q7200235 "CN052080" ;
+    wdata:Q7200235 "CN052080" ;
 .
 
 <urn:mdciii:1603:16:156:2:52090>
@@ -4345,7 +4345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zunyi"@eng-Latn ,
         "遵义市"@zho-Zyyy ;
-    wdata:q7200235 "CN052090" ;
+    wdata:Q7200235 "CN052090" ;
 .
 
 <urn:mdciii:1603:16:156:2:53010>
@@ -4359,7 +4359,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baoshan"@eng-Latn ,
         "保山市"@zho-Zyyy ;
-    wdata:q7200235 "CN053010" ;
+    wdata:Q7200235 "CN053010" ;
 .
 
 <urn:mdciii:1603:16:156:2:53020>
@@ -4373,7 +4373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chuxiong Yi Autonomous Prefecture"@eng-Latn ,
         "楚雄彝族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053020" ;
+    wdata:Q7200235 "CN053020" ;
 .
 
 <urn:mdciii:1603:16:156:2:53030>
@@ -4387,7 +4387,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dêqên Tibetan Autonomous Prefecture"@eng-Latn ,
         "迪庆藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053030" ;
+    wdata:Q7200235 "CN053030" ;
 .
 
 <urn:mdciii:1603:16:156:2:53040>
@@ -4401,7 +4401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dali Bai Autonomous Prefecture"@eng-Latn ,
         "大理白族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053040" ;
+    wdata:Q7200235 "CN053040" ;
 .
 
 <urn:mdciii:1603:16:156:2:53050>
@@ -4415,7 +4415,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dehong Dai and Jingpo Autonomous Prefecture"@eng-Latn ,
         "德宏傣族景颇族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053050" ;
+    wdata:Q7200235 "CN053050" ;
 .
 
 <urn:mdciii:1603:16:156:2:53060>
@@ -4429,7 +4429,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Honghe Hani and Yi Autonomous Prefecture"@eng-Latn ,
         "红河哈尼族彝族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053060" ;
+    wdata:Q7200235 "CN053060" ;
 .
 
 <urn:mdciii:1603:16:156:2:53070>
@@ -4443,7 +4443,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kunming"@eng-Latn ,
         "昆明市"@zho-Zyyy ;
-    wdata:q7200235 "CN053070" ;
+    wdata:Q7200235 "CN053070" ;
 .
 
 <urn:mdciii:1603:16:156:2:53080>
@@ -4457,7 +4457,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lijiang"@eng-Latn ,
         "丽江市"@zho-Zyyy ;
-    wdata:q7200235 "CN053080" ;
+    wdata:Q7200235 "CN053080" ;
 .
 
 <urn:mdciii:1603:16:156:2:53090>
@@ -4471,7 +4471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lincang"@eng-Latn ,
         "临沧市"@zho-Zyyy ;
-    wdata:q7200235 "CN053090" ;
+    wdata:Q7200235 "CN053090" ;
 .
 
 <urn:mdciii:1603:16:156:2:53100>
@@ -4485,7 +4485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nujiang Lisu Autonomous Prefecture"@eng-Latn ,
         "怒江傈僳族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053100" ;
+    wdata:Q7200235 "CN053100" ;
 .
 
 <urn:mdciii:1603:16:156:2:53110>
@@ -4499,7 +4499,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pu'er"@eng-Latn ,
         "普洱市"@zho-Zyyy ;
-    wdata:q7200235 "CN053110" ;
+    wdata:Q7200235 "CN053110" ;
 .
 
 <urn:mdciii:1603:16:156:2:53120>
@@ -4513,7 +4513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qujing"@eng-Latn ,
         "曲靖市"@zho-Zyyy ;
-    wdata:q7200235 "CN053120" ;
+    wdata:Q7200235 "CN053120" ;
 .
 
 <urn:mdciii:1603:16:156:2:53130>
@@ -4527,7 +4527,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wenshan Zhuang and Miao Autonomous Prefecture"@eng-Latn ,
         "文山壮族苗族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053130" ;
+    wdata:Q7200235 "CN053130" ;
 .
 
 <urn:mdciii:1603:16:156:2:53140>
@@ -4541,7 +4541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xishuangbanna Dai Autonomous Prefecture"@eng-Latn ,
         "西双版纳傣族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN053140" ;
+    wdata:Q7200235 "CN053140" ;
 .
 
 <urn:mdciii:1603:16:156:2:53150>
@@ -4555,7 +4555,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yuxi"@eng-Latn ,
         "玉溪市"@zho-Zyyy ;
-    wdata:q7200235 "CN053150" ;
+    wdata:Q7200235 "CN053150" ;
 .
 
 <urn:mdciii:1603:16:156:2:53160>
@@ -4569,7 +4569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhaotong"@eng-Latn ,
         "昭通市"@zho-Zyyy ;
-    wdata:q7200235 "CN053160" ;
+    wdata:Q7200235 "CN053160" ;
 .
 
 <urn:mdciii:1603:16:156:2:54010>
@@ -4583,7 +4583,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lhasa"@eng-Latn ,
         "拉萨市"@zho-Zyyy ;
-    wdata:q7200235 "CN054010" ;
+    wdata:Q7200235 "CN054010" ;
 .
 
 <urn:mdciii:1603:16:156:2:54020>
@@ -4597,7 +4597,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lhoka"@eng-Latn ,
         "山南市"@zho-Zyyy ;
-    wdata:q7200235 "CN054020" ;
+    wdata:Q7200235 "CN054020" ;
 .
 
 <urn:mdciii:1603:16:156:2:54030>
@@ -4611,7 +4611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nagqu Prefecture"@eng-Latn ,
         "那曲地区"@zho-Zyyy ;
-    wdata:q7200235 "CN054030" ;
+    wdata:Q7200235 "CN054030" ;
 .
 
 <urn:mdciii:1603:16:156:2:54040>
@@ -4625,7 +4625,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngari Prefecture"@eng-Latn ,
         "阿里地区"@zho-Zyyy ;
-    wdata:q7200235 "CN054040" ;
+    wdata:Q7200235 "CN054040" ;
 .
 
 <urn:mdciii:1603:16:156:2:54050>
@@ -4639,7 +4639,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyingchi"@eng-Latn ,
         "林芝市"@zho-Zyyy ;
-    wdata:q7200235 "CN054050" ;
+    wdata:Q7200235 "CN054050" ;
 .
 
 <urn:mdciii:1603:16:156:2:54060>
@@ -4653,7 +4653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qamdo"@eng-Latn ,
         "昌都市"@zho-Zyyy ;
-    wdata:q7200235 "CN054060" ;
+    wdata:Q7200235 "CN054060" ;
 .
 
 <urn:mdciii:1603:16:156:2:54070>
@@ -4667,7 +4667,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xigazê"@eng-Latn ,
         "日喀则市"@zho-Zyyy ;
-    wdata:q7200235 "CN054070" ;
+    wdata:Q7200235 "CN054070" ;
 .
 
 <urn:mdciii:1603:16:156:2:61010>
@@ -4681,7 +4681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ankang"@eng-Latn ,
         "安康市"@zho-Zyyy ;
-    wdata:q7200235 "CN061010" ;
+    wdata:Q7200235 "CN061010" ;
 .
 
 <urn:mdciii:1603:16:156:2:61020>
@@ -4695,7 +4695,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baoji"@eng-Latn ,
         "宝鸡市"@zho-Zyyy ;
-    wdata:q7200235 "CN061020" ;
+    wdata:Q7200235 "CN061020" ;
 .
 
 <urn:mdciii:1603:16:156:2:61030>
@@ -4709,7 +4709,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hanzhong"@eng-Latn ,
         "汉中市"@zho-Zyyy ;
-    wdata:q7200235 "CN061030" ;
+    wdata:Q7200235 "CN061030" ;
 .
 
 <urn:mdciii:1603:16:156:2:61040>
@@ -4723,7 +4723,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shangluo"@eng-Latn ,
         "商洛市"@zho-Zyyy ;
-    wdata:q7200235 "CN061040" ;
+    wdata:Q7200235 "CN061040" ;
 .
 
 <urn:mdciii:1603:16:156:2:61050>
@@ -4737,7 +4737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tongchuan"@eng-Latn ,
         "铜川市"@zho-Zyyy ;
-    wdata:q7200235 "CN061050" ;
+    wdata:Q7200235 "CN061050" ;
 .
 
 <urn:mdciii:1603:16:156:2:61060>
@@ -4751,7 +4751,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Weinan"@eng-Latn ,
         "渭南市"@zho-Zyyy ;
-    wdata:q7200235 "CN061060" ;
+    wdata:Q7200235 "CN061060" ;
 .
 
 <urn:mdciii:1603:16:156:2:61070>
@@ -4765,7 +4765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xi'an"@eng-Latn ,
         "西安市"@zho-Zyyy ;
-    wdata:q7200235 "CN061070" ;
+    wdata:Q7200235 "CN061070" ;
 .
 
 <urn:mdciii:1603:16:156:2:61080>
@@ -4779,7 +4779,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xianyang"@eng-Latn ,
         "咸阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN061080" ;
+    wdata:Q7200235 "CN061080" ;
 .
 
 <urn:mdciii:1603:16:156:2:61090>
@@ -4793,7 +4793,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yan'an"@eng-Latn ,
         "延安市"@zho-Zyyy ;
-    wdata:q7200235 "CN061090" ;
+    wdata:Q7200235 "CN061090" ;
 .
 
 <urn:mdciii:1603:16:156:2:61100>
@@ -4807,7 +4807,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yulin"@eng-Latn ,
         "榆林市"@zho-Zyyy ;
-    wdata:q7200235 "CN061100" ;
+    wdata:Q7200235 "CN061100" ;
 .
 
 <urn:mdciii:1603:16:156:2:62010>
@@ -4821,7 +4821,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Baiyin"@eng-Latn ,
         "白银市"@zho-Zyyy ;
-    wdata:q7200235 "CN062010" ;
+    wdata:Q7200235 "CN062010" ;
 .
 
 <urn:mdciii:1603:16:156:2:62020>
@@ -4835,7 +4835,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Dingxi"@eng-Latn ,
         "定西市"@zho-Zyyy ;
-    wdata:q7200235 "CN062020" ;
+    wdata:Q7200235 "CN062020" ;
 .
 
 <urn:mdciii:1603:16:156:2:62030>
@@ -4849,7 +4849,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gannan Tibetan Autonomous Prefecture"@eng-Latn ,
         "甘南藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN062030" ;
+    wdata:Q7200235 "CN062030" ;
 .
 
 <urn:mdciii:1603:16:156:2:62040>
@@ -4863,7 +4863,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiayuguan"@eng-Latn ,
         "嘉峪关市"@zho-Zyyy ;
-    wdata:q7200235 "CN062040" ;
+    wdata:Q7200235 "CN062040" ;
 .
 
 <urn:mdciii:1603:16:156:2:62050>
@@ -4877,7 +4877,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jinchang"@eng-Latn ,
         "金昌市"@zho-Zyyy ;
-    wdata:q7200235 "CN062050" ;
+    wdata:Q7200235 "CN062050" ;
 .
 
 <urn:mdciii:1603:16:156:2:62060>
@@ -4891,7 +4891,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Jiuquan"@eng-Latn ,
         "酒泉市"@zho-Zyyy ;
-    wdata:q7200235 "CN062060" ;
+    wdata:Q7200235 "CN062060" ;
 .
 
 <urn:mdciii:1603:16:156:2:62070>
@@ -4905,7 +4905,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lanzhou"@eng-Latn ,
         "兰州市"@zho-Zyyy ;
-    wdata:q7200235 "CN062070" ;
+    wdata:Q7200235 "CN062070" ;
 .
 
 <urn:mdciii:1603:16:156:2:62080>
@@ -4919,7 +4919,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Linxia Hui Autonomous Prefecture"@eng-Latn ,
         "临夏回族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN062080" ;
+    wdata:Q7200235 "CN062080" ;
 .
 
 <urn:mdciii:1603:16:156:2:62090>
@@ -4933,7 +4933,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Longnan"@eng-Latn ,
         "陇南市"@zho-Zyyy ;
-    wdata:q7200235 "CN062090" ;
+    wdata:Q7200235 "CN062090" ;
 .
 
 <urn:mdciii:1603:16:156:2:62100>
@@ -4947,7 +4947,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Pingliang"@eng-Latn ,
         "平凉市"@zho-Zyyy ;
-    wdata:q7200235 "CN062100" ;
+    wdata:Q7200235 "CN062100" ;
 .
 
 <urn:mdciii:1603:16:156:2:62110>
@@ -4961,7 +4961,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Qingyang"@eng-Latn ,
         "庆阳市"@zho-Zyyy ;
-    wdata:q7200235 "CN062110" ;
+    wdata:Q7200235 "CN062110" ;
 .
 
 <urn:mdciii:1603:16:156:2:62120>
@@ -4975,7 +4975,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tianshui"@eng-Latn ,
         "天水市"@zho-Zyyy ;
-    wdata:q7200235 "CN062120" ;
+    wdata:Q7200235 "CN062120" ;
 .
 
 <urn:mdciii:1603:16:156:2:62130>
@@ -4989,7 +4989,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuwei"@eng-Latn ,
         "武威市"@zho-Zyyy ;
-    wdata:q7200235 "CN062130" ;
+    wdata:Q7200235 "CN062130" ;
 .
 
 <urn:mdciii:1603:16:156:2:62140>
@@ -5003,7 +5003,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhangye"@eng-Latn ,
         "张掖市"@zho-Zyyy ;
-    wdata:q7200235 "CN062140" ;
+    wdata:Q7200235 "CN062140" ;
 .
 
 <urn:mdciii:1603:16:156:2:63010>
@@ -5017,7 +5017,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Golog Tibetan Autonomous Prefecture"@eng-Latn ,
         "果洛藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN063010" ;
+    wdata:Q7200235 "CN063010" ;
 .
 
 <urn:mdciii:1603:16:156:2:63020>
@@ -5031,7 +5031,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Haibei Tibetan Autonomous Prefecture"@eng-Latn ,
         "海北藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN063020" ;
+    wdata:Q7200235 "CN063020" ;
 .
 
 <urn:mdciii:1603:16:156:2:63030>
@@ -5045,7 +5045,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Haidong"@eng-Latn ,
         "海东市"@zho-Zyyy ;
-    wdata:q7200235 "CN063030" ;
+    wdata:Q7200235 "CN063030" ;
 .
 
 <urn:mdciii:1603:16:156:2:63040>
@@ -5059,7 +5059,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hainan Tibetan Autonomous Prefecture"@eng-Latn ,
         "海南藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN063040" ;
+    wdata:Q7200235 "CN063040" ;
 .
 
 <urn:mdciii:1603:16:156:2:63050>
@@ -5073,7 +5073,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Haixi Mongolian Autonomous Prefecture"@eng-Latn ,
         "海西蒙古族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN063050" ;
+    wdata:Q7200235 "CN063050" ;
 .
 
 <urn:mdciii:1603:16:156:2:63060>
@@ -5087,7 +5087,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Huangnan Tibetan Autonomous Prefecture"@eng-Latn ,
         "黄南藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN063060" ;
+    wdata:Q7200235 "CN063060" ;
 .
 
 <urn:mdciii:1603:16:156:2:63070>
@@ -5101,7 +5101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Xining"@eng-Latn ,
         "西宁市"@zho-Zyyy ;
-    wdata:q7200235 "CN063070" ;
+    wdata:Q7200235 "CN063070" ;
 .
 
 <urn:mdciii:1603:16:156:2:63080>
@@ -5115,7 +5115,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yushu Tibetan Autonomous Prefecture"@eng-Latn ,
         "玉树藏族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN063080" ;
+    wdata:Q7200235 "CN063080" ;
 .
 
 <urn:mdciii:1603:16:156:2:64010>
@@ -5129,7 +5129,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Guyuan"@eng-Latn ,
         "固原市"@zho-Zyyy ;
-    wdata:q7200235 "CN064010" ;
+    wdata:Q7200235 "CN064010" ;
 .
 
 <urn:mdciii:1603:16:156:2:64020>
@@ -5143,7 +5143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shizuishan"@eng-Latn ,
         "石嘴山市"@zho-Zyyy ;
-    wdata:q7200235 "CN064020" ;
+    wdata:Q7200235 "CN064020" ;
 .
 
 <urn:mdciii:1603:16:156:2:64030>
@@ -5157,7 +5157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Wuzhong"@eng-Latn ,
         "吴忠市"@zho-Zyyy ;
-    wdata:q7200235 "CN064030" ;
+    wdata:Q7200235 "CN064030" ;
 .
 
 <urn:mdciii:1603:16:156:2:64040>
@@ -5171,7 +5171,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Yinchuan"@eng-Latn ,
         "银川市"@zho-Zyyy ;
-    wdata:q7200235 "CN064040" ;
+    wdata:Q7200235 "CN064040" ;
 .
 
 <urn:mdciii:1603:16:156:2:64050>
@@ -5185,7 +5185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Zhongwei"@eng-Latn ,
         "中卫市"@zho-Zyyy ;
-    wdata:q7200235 "CN064050" ;
+    wdata:Q7200235 "CN064050" ;
 .
 
 <urn:mdciii:1603:16:156:2:65010>
@@ -5199,7 +5199,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ürümqi"@eng-Latn ,
         "乌鲁木齐市"@zho-Zyyy ;
-    wdata:q7200235 "CN065010" ;
+    wdata:Q7200235 "CN065010" ;
 .
 
 <urn:mdciii:1603:16:156:2:65020>
@@ -5213,7 +5213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Aksu Prefecture"@eng-Latn ,
         "阿克苏地区"@zho-Zyyy ;
-    wdata:q7200235 "CN065020" ;
+    wdata:Q7200235 "CN065020" ;
 .
 
 <urn:mdciii:1603:16:156:2:65030>
@@ -5227,7 +5227,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Altay Prefecture"@eng-Latn ,
         "阿勒泰地区"@zho-Zyyy ;
-    wdata:q7200235 "CN065030" ;
+    wdata:Q7200235 "CN065030" ;
 .
 
 <urn:mdciii:1603:16:156:2:65040>
@@ -5241,7 +5241,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bayingolin Mongolia Autonomous Prefecture"@eng-Latn ,
         "巴音郭楞蒙古自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN065040" ;
+    wdata:Q7200235 "CN065040" ;
 .
 
 <urn:mdciii:1603:16:156:2:65050>
@@ -5255,7 +5255,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bortala Mongol Autonomous Prefecture"@eng-Latn ,
         "博尔塔拉蒙古自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN065050" ;
+    wdata:Q7200235 "CN065050" ;
 .
 
 <urn:mdciii:1603:16:156:2:65060>
@@ -5269,7 +5269,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Changji Hui Autonomous Prefecture"@eng-Latn ,
         "昌吉回族自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN065060" ;
+    wdata:Q7200235 "CN065060" ;
 .
 
 <urn:mdciii:1603:16:156:2:65070>
@@ -5283,7 +5283,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hami"@eng-Latn ,
         "哈密市"@zho-Zyyy ;
-    wdata:q7200235 "CN065070" ;
+    wdata:Q7200235 "CN065070" ;
 .
 
 <urn:mdciii:1603:16:156:2:65080>
@@ -5297,7 +5297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hotan Prefecture"@eng-Latn ,
         "和田地区"@zho-Zyyy ;
-    wdata:q7200235 "CN065080" ;
+    wdata:Q7200235 "CN065080" ;
 .
 
 <urn:mdciii:1603:16:156:2:65090>
@@ -5311,7 +5311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ili Kazak Autonomous Prefecture"@eng-Latn ,
         "伊犁哈萨克自治州[5]"@zho-Zyyy ;
-    wdata:q7200235 "CN065090" ;
+    wdata:Q7200235 "CN065090" ;
 .
 
 <urn:mdciii:1603:16:156:2:65100>
@@ -5325,7 +5325,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Karamay"@eng-Latn ,
         "克拉玛依市"@zho-Zyyy ;
-    wdata:q7200235 "CN065100" ;
+    wdata:Q7200235 "CN065100" ;
 .
 
 <urn:mdciii:1603:16:156:2:65110>
@@ -5339,7 +5339,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kashi Prefecture"@eng-Latn ,
         "喀什地区"@zho-Zyyy ;
-    wdata:q7200235 "CN065110" ;
+    wdata:Q7200235 "CN065110" ;
 .
 
 <urn:mdciii:1603:16:156:2:65120>
@@ -5353,7 +5353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kizilsu Kirgiz Autonomous Prefecture"@eng-Latn ,
         "克孜勒苏柯尔克孜自治州"@zho-Zyyy ;
-    wdata:q7200235 "CN065120" ;
+    wdata:Q7200235 "CN065120" ;
 .
 
 <urn:mdciii:1603:16:156:2:65130>
@@ -5367,7 +5367,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shihezi"@eng-Latn ,
         "石河子市[1]"@zho-Zyyy ;
-    wdata:q7200235 "CN065130" ;
+    wdata:Q7200235 "CN065130" ;
 .
 
 <urn:mdciii:1603:16:156:2:65140>
@@ -5381,7 +5381,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tarbaĝatay Prefecture"@eng-Latn ,
         "塔城地区"@zho-Zyyy ;
-    wdata:q7200235 "CN065140" ;
+    wdata:Q7200235 "CN065140" ;
 .
 
 <urn:mdciii:1603:16:156:2:65150>
@@ -5395,7 +5395,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Turpan"@eng-Latn ,
         "吐鲁番市"@zho-Zyyy ;
-    wdata:q7200235 "CN065150" ;
+    wdata:Q7200235 "CN065150" ;
 .
 
 <urn:mdciii:1603:16:156:2:71010>
@@ -5409,7 +5409,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Taiwan province"@eng-Latn ,
         "台湾省"@zho-Zyyy ;
-    wdata:q7200235 "CN071010" ;
+    wdata:Q7200235 "CN071010" ;
 .
 
 <urn:mdciii:1603:16:156:2:81010>
@@ -5423,7 +5423,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Hong Kong Special Administrative Region"@eng-Latn ,
         "香港"@zho-Zyyy ;
-    wdata:q7200235 "CN081010" ;
+    wdata:Q7200235 "CN081010" ;
 .
 
 <urn:mdciii:1603:16:156:2:82010>
@@ -5437,6 +5437,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Macao Special Administrative Region"@eng-Latn ,
         "澳门"@zho-Zyyy ;
-    wdata:q7200235 "CN082010" ;
+    wdata:Q7200235 "CN082010" ;
 .
 
